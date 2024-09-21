@@ -1,5 +1,5 @@
 
-3-Disease Prediction from Medical Data
+1-Disease Prediction from Medical Data
 
 
 data preprocessing 
